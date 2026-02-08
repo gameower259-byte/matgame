@@ -1,0 +1,2 @@
+# Asset manifest for TEOREM – OPTIMUM REJİM
+# Run download_assets.bat to populate this file.
